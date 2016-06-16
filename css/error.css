@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28.10.2014, 14:41:50
+    Author     : KiTaro Andre Gaertner 
+    Homepage   : http://www.andregaertner.com
+*/
+
+/* ERROR CSS*/
+body {
+    background:#fff; 
+    color:#000; 
+    font-family:Arial,Helvetica,Sans Serif; 
+    font-size:78%; 
+    margin:0; 
+    padding:0; 
+    text-align:center;
+}
+
+#error { 
+    margin:0; 
+    padding:0; 
+    padding-top:40px; 
+    padding-bottom:60px; 
+    width:814px; 
+}
+h1 {
+    margin:0 0 20px 0;
+}
+.search label {
+    display:none
+}
